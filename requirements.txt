@@ -1,0 +1,3 @@
+PySide6
+PyAutoGUI
+PySide6-Fluent-Widgets
